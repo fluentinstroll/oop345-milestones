@@ -1,10 +1,3 @@
-// Name: Raymond Rambo
-// Seneca Student ID: 122082175
-// Seneca email: rrambo@myseneca.ca
-// Date of completion: 2018/11/25
-//
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
 
 #include "Utilities.h"
 
